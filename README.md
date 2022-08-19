@@ -64,7 +64,7 @@ Hasta hace poco tiempo presidía el Grupo Comunitario de Procesos (Process Commu
 Volver a fundar la W3C en la siguiente etapa de su vida para que pueda seguir cambiando el mundo a mejor no es tarea fácil. De hecho, podría ser una labor aún más colosal que fundar un nuevo consorcio para una nueva iniciativa. Si salgo elegido, prometo trabajar con el Consejo, el equipo, la dirección y los miembros a fin de formar un Consorcio renovado y lleno de energía para abordar las tareas venideras. Un consorcio que constituya un vehículo más fuerte para ayudar a ofrecer una visión más sólida de la web y del servicio que esta presta a todas las personas.  David Singer Gobernanza de Estándares, Apple  singer@apple.com
  
  
-## Francais | French
+## Français | French
 
 Si je suis élu membre du Conseil d’administration, je promets de défendre les intérêts du W3C et de ses membres, et d’assurer à cette communauté la gouvernance et la stabilité qui lui sont nécessaires en lui fixant un cap pour les vingt-cinq prochaines années. Ma vision pour le W3C est celle d’une communauté dont l’attention se porte sur ses membres ainsi que sur le rôle crucial que joue le World Wide Web dans le développement de l’humanité, à travers le monde. Afin d’exprimer ma gratitude envers le W3C, je souhaiterais rendre aux personnes qui ont participé à définir, créer et utiliser le Web le soutien dont elles continuent de me faire preuve.
 
