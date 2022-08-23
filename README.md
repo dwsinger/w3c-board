@@ -30,7 +30,7 @@ Até recentemente, presidi o Process Community Group, onde trabalhei na moderniz
 
 Restabelecer o W3C para a próxima fase da sua vida, para que ele possa continuar a mudar o mundo para melhor, não é tarefa fácil. Na realidade, pode ser uma tarefa maior que fundar um novo consórcio para uma nova iniciativa. Se eleito, prometo trabalhar com o Conselho, a equipe, a liderança e os participantes para forjar um Consórcio revitalizado, com vigor renovado para as tarefas que estão por vir, um Consórcio que seja um veículo mais forte para ajudar a entregar com base em uma visão mais robusta da web e do seu serviço a todas as pessoas.
 
-David Singer,
+David Singer<br/>
 Governança de Padrões, Apple
 
 singer@apple.com
@@ -46,7 +46,7 @@ Hasta hace poco tiempo presidía el Grupo Comunitario de Procesos (Process Commu
 
 Volver a fundar la W3C en la siguiente etapa de su vida para que pueda seguir cambiando el mundo a mejor no es una tarea fácil; de hecho, podría ser un mayor desafío de lo que sería fundar una nueva junta para una nueva iniciativa. De ser elegido, prometo trabajar con la Junta, el equipo, la dirección y los miembros a fin de sacar adelante una Junta revitalizada y con el vigor para abordar los retos por venir; una junta que constituya un vehículo más fuerte para ayudar a brindar una visión más sólida de Internet y de su servicio para todas las personas.
 
-David Singer
+David Singer<br/>
 Standards Governance, Apple
 
 singer@apple.com
@@ -62,7 +62,12 @@ En mi cargo en el Comité Consultivo me he esforzado por mejorar tanto nuestras 
 
 Hasta hace poco tiempo presidía el Grupo Comunitario de Procesos (Process Community Group), donde trabajé en la modernización de los procesos que utilizamos para desarrollar nuestras especificaciones y mantener activa nuestra comunidad técnica. Sin embargo, la gran carga de trabajo a la que ha tenido que hacer frente el Comité Consultivo en los últimos años (como parte de los preparativos para convertir la W3C en una organización de interés público sin ánimo de lucro), me hizo darme cuenta de la necesidad de ceder la presidencia. Además, en el pasado trabajé como representante del Comité Consultivo de Apple y en el futuro seguiré evaluando qué tareas puedo desempeñar.
 
-Volver a fundar la W3C en la siguiente etapa de su vida para que pueda seguir cambiando el mundo a mejor no es tarea fácil. De hecho, podría ser una labor aún más colosal que fundar un nuevo consorcio para una nueva iniciativa. Si salgo elegido, prometo trabajar con el Consejo, el equipo, la dirección y los miembros a fin de formar un Consorcio renovado y lleno de energía para abordar las tareas venideras. Un consorcio que constituya un vehículo más fuerte para ayudar a ofrecer una visión más sólida de la web y del servicio que esta presta a todas las personas.  David Singer Gobernanza de Estándares, Apple  singer@apple.com
+Volver a fundar la W3C en la siguiente etapa de su vida para que pueda seguir cambiando el mundo a mejor no es tarea fácil. De hecho, podría ser una labor aún más colosal que fundar un nuevo consorcio para una nueva iniciativa. Si salgo elegido, prometo trabajar con el Consejo, el equipo, la dirección y los miembros a fin de formar un Consorcio renovado y lleno de energía para abordar las tareas venideras. Un consorcio que constituya un vehículo más fuerte para ayudar a ofrecer una visión más sólida de la web y del servicio que esta presta a todas las personas.
+
+David Singer<br/>
+Gobernanza de Estándares, Apple
+
+singer@apple.com
  
  
 ## Français | French
@@ -75,7 +80,7 @@ Jusqu’à récemment, je présidais le Process Community Group, où j’œuvrai
 
 La refonte du W3C, afin qu’il entre dans une nouvelle ère et continue de transformer le monde, n’est en effet pas une mince affaire et peut se révéler une tâche plus ardue encore que celle de créer un nouveau consortium en faveur d’une nouvelle initiative. Si je suis élu, je promets de collaborer main dans la main avec le Conseil d’administration, notre équipe, notre direction et nos membres en vue de façonner un Consortium revitalisé et d’insuffler de nouveau à ce dernier la vigueur nécessaire lui permettant d’accomplir les tâches qui se présentent à lui et de constituer le vecteur d’une vision puissante du Web et de ses services auprès de tous les utilisateurs. 
 
-David Singer
+David Singer<br/>
 Gouvernance des normes, Apple
 
 singer@apple.com
@@ -91,7 +96,7 @@ Bis vor Kurzem hatte ich den Vorsitz in der Process Community Group inne. Dort h
 
 Die Neugründung des W3C für die nächste Lebensphase, mit dem Ziel weiterhin zu einer besseren Welt beizutragen, ist kein leichtes Unterfangen – vermutlich ist es sogar eine größere Aufgabe als die Gründung eines neuen Konsortiums für eine neue Initiative. Wenn ich gewählt werde, verspreche ich, mit dem Vorstand, dem Team, der Führung und den Mitgliedern zusammenzuarbeiten, um gemeinsam ein noch besser für die Zukunft gewappnetes Konsortium zu schaffen, ein Konsortium, das zu neuer Stärke findet und als treibende Kraft hinter einer stärkeren Vision für das Web und seine für alle zugänglichen Dienste steht.
 
-David Singer
+David Singer<br/>
 Standards Governance, Apple
 
 singer@apple.com
@@ -107,7 +112,7 @@ singer@apple.com
 
 לייסד מחדש את ארגון W3C עבור השלב הבא של חייו, כדי שיוכל להמשיך לשנות את העולם לטובה, זו משימה לא קטנה. למעשה, ייתכן שזו משימה גדולה יותר מאשר לייסד קונסורציום חדש עבור יוזמה חדשה. אם אבחר, הנני מבטיח לפעול יחד עם המועצה, הצוות, ההנהגה והחברים כדי לעצב קונסורציום עם רוח חיים רעננה ומרץ מחודש להתמודד עם המשימות שעומדות מולו, קונסורציום שמהווה אמצעי חזק יותר למימוש חזון חזק יותר של הרשת ושירותיה למען כולם.
 
-דייוויד סינגר
+<br/>דייוויד סינגר
 Standards Governance, Apple
 
 singer@apple.com
@@ -134,7 +139,7 @@ singer@apple.com
 
 W3C दुनिया में निर्णायक परिवर्तन लाती रहे, इस वास्ते W3C के जीवन के अगले चरण के लिए इसका पुनर्गठन कोई आसान काम नहीं है। वस्तुतः यह किसी नई पहल के लिए एक नया कंसॉर्टियम बनाने से कहीं बड़ा काम हो सकता है। अगर मैं चुना जाता हूँ, तो मैं वादा करता हूँ कि मैं बोर्ड, टीम, नेतृत्व और सदस्यों के साथ मिलकर नए उत्साह के साथ भविष्य के कार्यों के लिए नई ऊर्जा से लैस कंसॉर्टियम बनाने का प्रयास करूँगा, एक ऐसा कंसॉर्टियम जो समर्थ विज़न के साथ वेब और उसकी सेवाएँ सभी लोगों को उपलब्ध कराने का एक मज़बूत माध्यम बनेगा।
 
-डेविड सिंगर
+डेविड सिंगर<br/>
 स्टैंडर्ड्स गवर्नेंस, Apple
 
 singer@apple.com
@@ -149,7 +154,7 @@ singer@apple.com
 
 W3Cがこれからも世界をより良く変えていくための次の段階に向けて、W3Cを再構築することは決して小さな仕事ではありません。実際のところ、新たな構想のために新規の団体や組織を創立するよりも大変な仕事かもしれません。もし私が選出された暁には、私は理事会、チーム、指導部、および会員の人たちと協力して、前途に待ち受ける課題に対して新たな活力をもってコンソーシアムを活性化し、ウェブおよびそのサービスがすべての人にとってより素晴らしいものとなるようにW3Cが助力していけるように粉骨砕身することを約束いたします。
 
-David Singer
+David Singer<br/>
 スタンダード·ガバナンス、Apple
 
 singer@apple.com
@@ -174,7 +179,7 @@ singer@apple.com
 
 새로운 앞날을 위해 조직을 재정비하고, W3C가 세상을 이롭게 하는 데 본연의 역할을 다할 수 있도록 만드는 것은 결코 간단한 과제라고 할 수 없습니다. 당연히 새로운 컨소시엄과 이니셔티브를 수립하는 것 이상의 노력이 필요할 것입니다. 제가 이사회에 선출된다면 이사회 전체는 물론 팀과 리더십, 회원 단체와 협력하여 당면 과제를 보다 활력 있게 해결하는 컨소시엄을 구성하고, 본 컨소시엄이 월드 와이드 웹 및 서비스를 위한 강력한 비전을 실현하는 원동력이 되도록 하는 데 노력을 아끼지 않겠습니다.
 
-David Singer
+David Singer<br/>
 Standards Governance, Apple
 
 singer@apple.com
@@ -197,7 +202,7 @@ singer@apple.com
 在下一阶段重塑 W3C，使其能够继续改变世界、造福人类，我们任重而道远。这一使命甚至比另起炉灶、为新倡议建立新联盟更为艰巨。若能当选，我承诺，我将与董事会、团队、领导队伍和诸位会员共同努力，振兴联盟，以新鲜活力迎接前方的任务，并使联盟更具实力，实现远大愿景，让万维网及其服务惠及全球。
 
 
-David Singer
+David Singer<br/>
 Standards Governance, Apple
 
 singer@apple.com
