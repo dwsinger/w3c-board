@@ -36,7 +36,7 @@ Governança de Padrões, Apple
 singer@apple.com
 
 
-## Español (Latinoamérica) | Mexican Spanish
+## Español (Latinoamérica) | Latin American Spanish
 
 Mi compromiso con la comunidad del W3C es que, si salgo elegido para formar parte de la Junta Asesora, pondré todo mi esfuerzo en apoyar al W3C y a sus integrantes, así como en proporcionar la dirección y la estabilidad que necesita, con el objetivo de prepararla para sus próximos 25 años de vida. Veo un W3C que se interesa por cada uno de sus integrantes, así como por el papel e importancia de la red mundial de Internet para todo el mundo en todas partes del globo. De igual modo, me gustaría agradecer y corresponder a las personas del W3C que definen, desarrollan y utilizan Internet, así como a la humanidad en su conjunto por el apoyo que me han brindado. 
 
