@@ -1,6 +1,6 @@
 # David Singer's nomination statement 
 
-## العربية
+## Arabic |  العربية
 
 الوعد الذي أقدمه لمجتمع W3C في حال انتخابي للانضمام إلى مجلس الإدارة هو أنني لن أدَّخر جهدًا في دعم جمعية W3C وأعضائها. وسأعمل على توفير الحوكمة والثبات اللذين تحتاجهما الجمعية في مسيرتها على مدار ٢٥ سنة القادمة. رؤيتي هي أن تولي جمعية W3C الأهمية اللازمة لجميع أعضائها، وللمكانة التي تحظى بها الشبكة العالمية لدى البشر في جميع أنحاء العالم. أود أيضًا أن أرد الجميل، وأقدم بكل عِرفان بعضًا من الدعم الذي حظيت به إلى جمعية W3C، ولكل من يستخدم ويبني ويسهم في رسم ملامح شبكة الإنترنت، وللبشرية جمعاء.
 
@@ -20,7 +20,7 @@
 singer@apple.com
 
 
-## Brazilian Portuguese
+## Português do Brasil | Brazilian Portuguese
 
 A minha promessa para a Comunidade do W3C é que, se eleito para o Conselho, trabalharei com empenho para apoiar o W3C e seus membros e para proporcionar a governança e a estabilidade de que o consórcio precisa, colocando-as em prática ao longo dos seus próximos 25 anos de vida. Na minha visão, o W3C deve estar atento a todos os seus membros e à posição e importância fundamentais da world-wide-web para toda a humanidade, em todo o mundo. Também gostaria de retribuir, em gratidão, ao W3C, àqueles que definem, criam e usam a web e à humanidade parte do apoio que tive a bênção de receber.
 
@@ -36,7 +36,7 @@ Governança de Padrões, Apple
 singer@apple.com
 
 
-## Mexican Spanish
+## Español (Latinoamérica) | Mexican Spanish
 
 Mi compromiso con la comunidad del W3C es que, si salgo elegido para formar parte de la Junta Asesora, pondré todo mi esfuerzo en apoyar al W3C y a sus integrantes, así como en proporcionar la dirección y la estabilidad que necesita, con el objetivo de prepararla para sus próximos 25 años de vida. Veo un W3C que se interesa por cada uno de sus integrantes, así como por el papel e importancia de la red mundial de Internet para todo el mundo en todas partes del globo. De igual modo, me gustaría agradecer y corresponder a las personas del W3C que definen, desarrollan y utilizan Internet, así como a la humanidad en su conjunto por el apoyo que me han brindado. 
 
@@ -54,7 +54,7 @@ singer@apple.com
 
 
 
-## European Spanish
+## Español (España) | European Spanish
 
 Mi promesa para con la Comunidad del W3C es que, si salgo elegido para formar parte del Comité Consultivo, pondré todo mi empeño en apoyar al W3C y a sus miembros, así como en proporcionar la gobernanza y la estabilidad que la Organización necesita, con el objetivo de prepararla para sus siguientes 25 años de vida. Imagino un W3C que se interesa por todos y cada uno de sus miembros, y por la importancia y papel claves de internet para todo el mundo en todos los rincones del planeta. Asimismo, me gustaría dar las gracias y devolver parte del apoyo que he tenido la suerte de recibir a las personas del W3C que definen, crean y utilizan la web, así como a la humanidad en su conjunto.
 
@@ -102,8 +102,8 @@ Standards Governance, Apple
 singer@apple.com
 
 
-## Hebrew
-
+עברית## Hebrew | 
+			
 ההבטחה שלי לקהילת ה-W3C היא שאם אבחר למועצת המנהלים, אעבוד קשה כדי לתמוך בארגון W3C ובחבריו, ואפעל כדי להעניק לו את המשילות והיציבות להם הוא זקוק על-מנת לקבוע את מסלולו למשך 25 שנות חייו הבאות. החזון שלי הוא ארגון W3C שקשוב לכל חבריו, ולמיקום והחשיבות ההיסטוריים של הרשת הכלל-עולמית לאנושות כולה בכל רחבי העולם. ברצוני גם להשיב לפחות חלק מהתמיכה שבורכתי לקבל ל-W3C, לאלו שמגדירים, בונים ומשתמשים ברשת, ולכלל האנושות, כהכרת תודה. 
 
 במסגרת תפקידי במועצת הניהול המייעצת, פעלתי לשיפור הפעילויות שלנו והחיבור בין החברים והצוות. כעת אני מציע את מועמדותי כדי לנצל את ההזדמנות ולסייע עם משילות. ברשותי ניסיון עם משילות ללא מטרת רווח: הנני חבר במועצת המנהלים של אחד מהארגונים האחים שלנו, קונסורציום יוניקוד (Unicode Consortium), ושירתי בעבר במועצות מנהלים אחרות, כולל בדירקטוריונים של INCITS ושל Blu-ray Disc Association.
@@ -129,7 +129,7 @@ singer@apple.com
 
 
 
-## Hindi
+## हिन्दी | Hindi
 
 अगर बोर्ड के लिए मेरा चयन होता है, तो W3C समुदाय से मेरा वादा है कि मैं W3C और इसके सदस्यों को समर्थन प्रदान करने और इसे आवश्यक गवर्नेंस और स्थायित्व प्रदान करने के लिए कड़ी मेहनत करूँगा ताकि अगले 25 सालों के लिए इसकी एक मुकम्मल दिशा तय हो सके। मेरा विज़न एक ऐसे W3C का है जो अपने सभी सदस्यों को ध्यान में रखे और दुनिया भर में संपूर्ण मानवता के लिए वर्ल्ड-वाइड-वेब की बुनियादी स्थिति और महत्व को बनाए रखने के प्रति सचेत रहे। इसके साथ ही, मैंने जो समर्थन प्राप्त किया है उसे मैं कृतज्ञतापूर्वक W3C को, वेब को परिभाषित, निर्मित और उसका इस्तेमाल करने वाले लोगों को तथा पूरी मानवता को अर्पित करना चाहूँगा।
 
@@ -146,7 +146,7 @@ singer@apple.com
 
 
 
-## Japanese
+## 日本語 | Japanese
 
 もし理事会に選出された場合、私はW3Cコミュニティに対して以下のことを約束します。第一に、私はW3Cとその会員の支援に懸命に取り組みます。次に、W3Cが安定的に統治および管理されるように努力します。最後に、W3Cの次の25年の発展に向けての道筋をつけることに力を尽くします。W3Cのすべての会員に対してのみならず、全世界の人々に対するワールドワイドウェブの基本的な位置付けと重要性にも注意深く対応することが私の目標です。また、W3C、ウェブを定義·構築·利用している人たち、および世界中の人々から私が今まで受けてきた恩恵に対して感謝の念を込めて少しなりともお返ししたいと願っています。
 
@@ -169,7 +169,7 @@ singer@apple.com
 
 
 
-## Korean
+## 한국어 | Korean
 
 제가 이사회에 선출된다면 W3C 커뮤니티와 전체 이사회를 보필하고, W3C에 필요한 거버넌스와 안정성을 마련하며, W3C가 다음 25년에 걸쳐 목표 궤도에 성공적으로 안착할 수 있도록 최선을 다할 것을 약속합니다. 앞으로 모든 회원의 목소리에 귀를 기울이고, 전 세계 사용자를 위한 월드 와이드 웹의 본질적인 위치와 중요성에 더욱 집중하는 W3C를 만드는 것이 제가 가진 비전입니다. 또한 이 자리를 빌려 W3C 뿐만 아니라 웹을 정의하고, 구축하고, 사용하는 모든 분들과 전 세계 사용자 여러분이 보내주신 성원에 감사드립니다.
 
@@ -191,7 +191,7 @@ singer@apple.com
 
 
 
-## Simplified Chinese
+## 简体中文 | Simplified Chinese
 
 我向 W3C 社区承诺，若当选董事会成员，我将不遗余力，支持 W3C 及其会员，为其提供所需治理、促进稳定，为未来 25 年确立发展方向。我心目中的 W3C 应关怀全体会员，并巩固万维网在全世界人类中的基础地位及重要作用。同时，我曾有幸获得诸多支持，因而也希望以感恩之心，回馈 W3C，回馈万维网的定义者、构建者和使用者，乃至全体人类。
 
