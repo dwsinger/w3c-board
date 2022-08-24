@@ -1,6 +1,6 @@
 # David Singer's nomination statement 
 
-## Arabic |  العربية
+## العربية
 
 الوعد الذي أقدمه لمجتمع W3C في حال انتخابي للانضمام إلى مجلس الإدارة هو أنني لن أدَّخر جهدًا في دعم جمعية W3C وأعضائها. وسأعمل على توفير الحوكمة والثبات اللذين تحتاجهما الجمعية في مسيرتها على مدار ٢٥ سنة القادمة. رؤيتي هي أن تولي جمعية W3C الأهمية اللازمة لجميع أعضائها، وللمكانة التي تحظى بها الشبكة العالمية لدى البشر في جميع أنحاء العالم. أود أيضًا أن أرد الجميل، وأقدم بكل عِرفان بعضًا من الدعم الذي حظيت به إلى جمعية W3C، ولكل من يستخدم ويبني ويسهم في رسم ملامح شبكة الإنترنت، وللبشرية جمعاء.
 
@@ -13,14 +13,12 @@
 
  إعادة تأسيس جمعية W3C للمرحلة الجديدة من حياتها لتستمر في تغيير العالم لن تكون مهمة سهلة، إذ قد تكون هذه المهمة أصعب من بناء جمعية جديدة بمبادرة جديدة. إذا انتُخبت، أعدكم بأن أعمل مع مجلس الإدارة وفريق العمل والقيادة والأعضاء لتأسيس الجمعية بروح قوية من جديد للاضطلاع بالمهام القادمة، ولتكون جمعية قادرة على تحقيق رؤية أقوى للشبكة وخدماتها، لتكون في خدمة الجميع. 
 
-                                                                                                   David Singer
 
 ديفد سينغر، حوكمة المعايير، Apple
 
-singer@apple.com
 
 
-## Português do Brasil | Brazilian Portuguese
+## Português do Brasil
 
 A minha promessa para a Comunidade do W3C é que, se eleito para o Conselho, trabalharei com empenho para apoiar o W3C e seus membros e para proporcionar a governança e a estabilidade de que o consórcio precisa, colocando-as em prática ao longo dos seus próximos 25 anos de vida. Na minha visão, o W3C deve estar atento a todos os seus membros e à posição e importância fundamentais da world-wide-web para toda a humanidade, em todo o mundo. Também gostaria de retribuir, em gratidão, ao W3C, àqueles que definem, criam e usam a web e à humanidade parte do apoio que tive a bênção de receber.
 
@@ -33,10 +31,8 @@ Restabelecer o W3C para a próxima fase da sua vida, para que ele possa continua
 David Singer<br/>
 Governança de Padrões, Apple
 
-singer@apple.com
 
-
-## Español (Latinoamérica) | Latin American Spanish
+## Español (Latinoamérica)
 
 Mi compromiso con la comunidad del W3C es que, si salgo elegido para formar parte de la Junta Asesora, pondré todo mi esfuerzo en apoyar al W3C y a sus integrantes, así como en proporcionar la dirección y la estabilidad que necesita, con el objetivo de prepararla para sus próximos 25 años de vida. Veo un W3C que se interesa por cada uno de sus integrantes, así como por el papel e importancia de la red mundial de Internet para todo el mundo en todas partes del globo. De igual modo, me gustaría agradecer y corresponder a las personas del W3C que definen, desarrollan y utilizan Internet, así como a la humanidad en su conjunto por el apoyo que me han brindado. 
 
@@ -49,12 +45,9 @@ Volver a fundar la W3C en la siguiente etapa de su vida para que pueda seguir ca
 David Singer<br/>
 Standards Governance, Apple
 
-singer@apple.com
 
 
-
-
-## Español (España) | European Spanish
+## Español (España)
 
 Mi promesa para con la Comunidad del W3C es que, si salgo elegido para formar parte del Comité Consultivo, pondré todo mi empeño en apoyar al W3C y a sus miembros, así como en proporcionar la gobernanza y la estabilidad que la Organización necesita, con el objetivo de prepararla para sus siguientes 25 años de vida. Imagino un W3C que se interesa por todos y cada uno de sus miembros, y por la importancia y papel claves de internet para todo el mundo en todos los rincones del planeta. Asimismo, me gustaría dar las gracias y devolver parte del apoyo que he tenido la suerte de recibir a las personas del W3C que definen, crean y utilizan la web, así como a la humanidad en su conjunto.
 
@@ -67,10 +60,8 @@ Volver a fundar la W3C en la siguiente etapa de su vida para que pueda seguir ca
 David Singer<br/>
 Gobernanza de Estándares, Apple
 
-singer@apple.com
  
- 
-## Français | French
+## Français
 
 Si je suis élu membre du Conseil d’administration, je promets de défendre les intérêts du W3C et de ses membres, et d’assurer à cette communauté la gouvernance et la stabilité qui lui sont nécessaires en lui fixant un cap pour les vingt-cinq prochaines années. Ma vision pour le W3C est celle d’une communauté dont l’attention se porte sur ses membres ainsi que sur le rôle crucial que joue le World Wide Web dans le développement de l’humanité, à travers le monde. Afin d’exprimer ma gratitude envers le W3C, je souhaiterais rendre aux personnes qui ont participé à définir, créer et utiliser le Web le soutien dont elles continuent de me faire preuve.
 
@@ -83,10 +74,8 @@ La refonte du W3C, afin qu’il entre dans une nouvelle ère et continue de tran
 David Singer<br/>
 Gouvernance des normes, Apple
 
-singer@apple.com
 
-
-## Deutsch | German
+## Deutsch
 
 Mein Versprechen an die W3C-Gemeinschaft lautet: Wenn ich in den Vorstand gewählt werde, werde ich mich nach Kräften dafür einsetzen, W3C und seine Mitglieder zu unterstützen. Ich werde danach streben, die erforderliche Stabilität und Governance zu schaffen, um die Weichen für die nächsten 25 Jahre des Konsortiums zu stellen. Meine Vision ist ein W3C, in dem die Anliegen aller Mitglieder Gehör finden und in dem die fundamentale Stellung und Bedeutung des World Wide Web für alle Menschen – weltweit – im Mittelpunkt steht. Gleichzeitig möchte ich dem W3C, allen Personen, die das Web definieren, es mitgestalten und nutzen und der gesamten Menschheit dieselbe Unterstützung bereitstellen, die ich glücklicherweise erhalten habe.
 
@@ -99,9 +88,8 @@ Die Neugründung des W3C für die nächste Lebensphase, mit dem Ziel weiterhin z
 David Singer<br/>
 Standards Governance, Apple
 
-singer@apple.com
 
-## Hebrew | עברית
+## עברית
 			
 ההבטחה שלי לקהילת ה-W3C היא שאם אבחר למועצת המנהלים, אעבוד קשה כדי לתמוך בארגון W3C ובחבריו, ואפעל כדי להעניק לו את המשילות והיציבות להם הוא זקוק על-מנת לקבוע את מסלולו למשך 25 שנות חייו הבאות. החזון שלי הוא ארגון W3C שקשוב לכל חבריו, ולמיקום והחשיבות ההיסטוריים של הרשת הכלל-עולמית לאנושות כולה בכל רחבי העולם. ברצוני גם להשיב לפחות חלק מהתמיכה שבורכתי לקבל ל-W3C, לאלו שמגדירים, בונים ומשתמשים ברשת, ולכלל האנושות, כהכרת תודה. 
 
@@ -111,24 +99,12 @@ singer@apple.com
 
 לייסד מחדש את ארגון W3C עבור השלב הבא של חייו, כדי שיוכל להמשיך לשנות את העולם לטובה, זו משימה לא קטנה. למעשה, ייתכן שזו משימה גדולה יותר מאשר לייסד קונסורציום חדש עבור יוזמה חדשה. אם אבחר, הנני מבטיח לפעול יחד עם המועצה, הצוות, ההנהגה והחברים כדי לעצב קונסורציום עם רוח חיים רעננה ומרץ מחודש להתמודד עם המשימות שעומדות מולו, קונסורציום שמהווה אמצעי חזק יותר למימוש חזון חזק יותר של הרשת ושירותיה למען כולם.
 
-<br/>דייוויד סינגר
-Standards Governance, Apple
-
-singer@apple.com
+<br/> דייוויד סינגר
+<br/> Standards Governance, Apple
 
 
 
-
-
-
-
-
-
-
-
-
-
-## हिन्दी | Hindi
+## हिन्दी
 
 अगर बोर्ड के लिए मेरा चयन होता है, तो W3C समुदाय से मेरा वादा है कि मैं W3C और इसके सदस्यों को समर्थन प्रदान करने और इसे आवश्यक गवर्नेंस और स्थायित्व प्रदान करने के लिए कड़ी मेहनत करूँगा ताकि अगले 25 सालों के लिए इसकी एक मुकम्मल दिशा तय हो सके। मेरा विज़न एक ऐसे W3C का है जो अपने सभी सदस्यों को ध्यान में रखे और दुनिया भर में संपूर्ण मानवता के लिए वर्ल्ड-वाइड-वेब की बुनियादी स्थिति और महत्व को बनाए रखने के प्रति सचेत रहे। इसके साथ ही, मैंने जो समर्थन प्राप्त किया है उसे मैं कृतज्ञतापूर्वक W3C को, वेब को परिभाषित, निर्मित और उसका इस्तेमाल करने वाले लोगों को तथा पूरी मानवता को अर्पित करना चाहूँगा।
 
@@ -141,11 +117,9 @@ W3C दुनिया में निर्णायक परिवर्त�
 डेविड सिंगर<br/>
 स्टैंडर्ड्स गवर्नेंस, Apple
 
-singer@apple.com
 
 
-
-## 日本語 | Japanese
+## 日本語
 
 もし理事会に選出された場合、私はW3Cコミュニティに対して以下のことを約束します。第一に、私はW3Cとその会員の支援に懸命に取り組みます。次に、W3Cが安定的に統治および管理されるように努力します。最後に、W3Cの次の25年の発展に向けての道筋をつけることに力を尽くします。W3Cのすべての会員に対してのみならず、全世界の人々に対するワールドワイドウェブの基本的な位置付けと重要性にも注意深く対応することが私の目標です。また、W3C、ウェブを定義·構築·利用している人たち、および世界中の人々から私が今まで受けてきた恩恵に対して感謝の念を込めて少しなりともお返ししたいと願っています。
 
@@ -156,19 +130,10 @@ W3Cがこれからも世界をより良く変えていくための次の段階�
 David Singer<br/>
 スタンダード·ガバナンス、Apple
 
-singer@apple.com
 
 
 
-
-
-
-
-
-
-
-
-## 한국어 | Korean
+## 한국어
 
 제가 이사회에 선출된다면 W3C 커뮤니티와 전체 이사회를 보필하고, W3C에 필요한 거버넌스와 안정성을 마련하며, W3C가 다음 25년에 걸쳐 목표 궤도에 성공적으로 안착할 수 있도록 최선을 다할 것을 약속합니다. 앞으로 모든 회원의 목소리에 귀를 기울이고, 전 세계 사용자를 위한 월드 와이드 웹의 본질적인 위치와 중요성에 더욱 집중하는 W3C를 만드는 것이 제가 가진 비전입니다. 또한 이 자리를 빌려 W3C 뿐만 아니라 웹을 정의하고, 구축하고, 사용하는 모든 분들과 전 세계 사용자 여러분이 보내주신 성원에 감사드립니다.
 
@@ -181,16 +146,9 @@ singer@apple.com
 David Singer<br/>
 Standards Governance, Apple
 
-singer@apple.com
 
 
-
-
-
-
-
-
-## 简体中文 | Simplified Chinese
+## 简体中文
 
 我向 W3C 社区承诺，若当选董事会成员，我将不遗余力，支持 W3C 及其会员，为其提供所需治理、促进稳定，为未来 25 年确立发展方向。我心目中的 W3C 应关怀全体会员，并巩固万维网在全世界人类中的基础地位及重要作用。同时，我曾有幸获得诸多支持，因而也希望以感恩之心，回馈 W3C，回馈万维网的定义者、构建者和使用者，乃至全体人类。
 
@@ -203,9 +161,6 @@ singer@apple.com
 
 David Singer<br/>
 Standards Governance, Apple
-
-singer@apple.com
-
 
 
 
